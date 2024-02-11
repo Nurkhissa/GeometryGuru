@@ -21,3 +21,17 @@ This program calculates the area of a circle and the area of an equilateral tria
 ![Finished](/images/carbon%20(2).png)
 
 ![Finished](/images/Animation1.gif)
+
+### 2. Calculation of the face of an equilateral triangle
+#### 1. Let us be given the sides a, b of an equilateral triangle
+![](/images/carbon%20(3).png)
+
+The formula for calculating the area of an equilateral triangle is S=1/2*a*h, h is the height of the triangle, we can find it using the Pythagorean formula c^2=a^2+b^2
+
+![](/images/carbon%20(4).png)
+
+after finding its height, we can calculate its face
+
+![](/images/carbon%20(5).png)
+
+![](/images/Animation2.gif)
